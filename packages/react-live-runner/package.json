@@ -1,5 +1,5 @@
 {
-  "name": "@shipixen/react-live-runner",
+  "name": "shipixen-react-live-runner",
   "version": "1.1.0",
   "description": "Run your React code on the go",
   "homepage": "https://react-runner.vercel.app",
@@ -40,7 +40,7 @@
     "prettier": "prettier --write '**/src/**/*.{ts,tsx}'"
   },
   "dependencies": {
-    "@shipixen/react-runner": "^1.1.0",
+    "shipixen-react-runner": "^1.1.0",
     "prism-react-renderer": "^1.2.1",
     "react-simple-code-editor": "^0.13.1"
   },
@@ -69,5 +69,6 @@
         "lines": 100
       }
     }
-  }
+  },
+  "gitHead": "7995fbd0d893cf2caee9f11182fc0d9dc1daf7eb"
 }

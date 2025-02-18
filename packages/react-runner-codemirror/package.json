@@ -1,5 +1,5 @@
 {
-  "name": "@shipixen/react-runner-codemirror",
+  "name": "shipixen-react-runner-codemirror",
   "version": "0.4.0",
   "description": "CodeMirror6 for react code editing",
   "homepage": "https://react-runner.vercel.app",
@@ -79,5 +79,6 @@
         "lines": 0
       }
     }
-  }
+  },
+  "gitHead": "7995fbd0d893cf2caee9f11182fc0d9dc1daf7eb"
 }

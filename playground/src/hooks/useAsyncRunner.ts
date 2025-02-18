@@ -6,7 +6,7 @@ import React, {
   ReactElement,
 } from 'react'
 import 'construct-style-sheets-polyfill'
-import { Runner, UseRunnerProps, UseRunnerReturn } from '@shipixen/react-runner'
+import { Runner, UseRunnerProps, UseRunnerReturn } from 'shipixen-react-runner'
 
 import { withFiles } from '../utils/withFiles'
 import { useUncaughtError } from './useUncaughtError'
