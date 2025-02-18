@@ -55,8 +55,8 @@
     "@codemirror/view": "^0.19.31"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || ^17 || ^18",
-    "react-dom": "^16.8.0 || ^17 || ^18"
+    "react": ">16.0.0",
+    "react-dom": ">16.0.0"
   },
   "browserslist": [
     "Chrome > 61",

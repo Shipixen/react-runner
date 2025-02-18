@@ -1,4 +1,4 @@
-import { importCode, Scope } from 'react-runner'
+import { importCode, Scope } from '@shipixen/react-runner'
 
 import { splitFileName } from './filename'
 

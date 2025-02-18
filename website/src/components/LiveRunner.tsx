@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import styled from 'styled-components'
-import { useRunner, Scope } from 'react-runner'
+import { useRunner, Scope } from '@shipixen/react-runner'
 import {
   LiveProvider,
   LiveEditor,
@@ -9,8 +9,8 @@ import {
   CodeEditor,
   useLiveRunner,
   Language,
-} from 'react-live-runner'
-import { CodeMirror as CM } from 'react-runner-codemirror'
+} from '@shipixen/react-live-runner'
+import { CodeMirror as CM } from '@shipixen/react-runner-codemirror'
 
 export const Container = styled.div`
   display: flex;

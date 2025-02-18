@@ -1,4 +1,4 @@
-export * from 'react-runner'
+export * from '@shipixen/react-runner'
 
 export * from './useLiveRunner'
 export * from './CodeEditor'
