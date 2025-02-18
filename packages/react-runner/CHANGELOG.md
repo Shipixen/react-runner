@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.1.0 (2025-02-18)
+
+
+### Bug Fixes
+
+* catch update error ([#62](https://github.com/nihgwu/react-runner/issues/62)) ([9c4b86b](https://github.com/nihgwu/react-runner/commit/9c4b86ba794f19fc18316183c2cb032d971c8bfa))
+* crash on export default empty content ([3ad5dda](https://github.com/nihgwu/react-runner/commit/3ad5dda6bf7fd69f268df7640c4fdb653fed59a2))
+* Default condition should be last one ([#173](https://github.com/nihgwu/react-runner/issues/173)) ([2878890](https://github.com/nihgwu/react-runner/commit/287889039b547adb86dd48f885f959f6911c1352))
+* fix cache and remove deprecated props ([#50](https://github.com/nihgwu/react-runner/issues/50)) ([9bc3e5e](https://github.com/nihgwu/react-runner/commit/9bc3e5ef58199bfdbb054d2f10b083a3fde74921))
+* inline element regression ([215a98c](https://github.com/nihgwu/react-runner/commit/215a98c5ebbb35e89492b1c4c24edb5423886a51))
+* runner would crash app if return object ([3ffe899](https://github.com/nihgwu/react-runner/commit/3ffe8996bd1fe51ba1ecc5d0e927554ffcfd520d))
+* types export ([#172](https://github.com/nihgwu/react-runner/issues/172)) ([0dc0181](https://github.com/nihgwu/react-runner/commit/0dc0181e0584ec98c968664800144056f545c08a))
+
+
+### Features
+
+* add createRequire and remove imports ([#65](https://github.com/nihgwu/react-runner/issues/65)) ([de96dac](https://github.com/nihgwu/react-runner/commit/de96dac64fa78d443e1ef668c68c3f2b9ee78a6b))
+* add importCode ([#71](https://github.com/nihgwu/react-runner/issues/71)) ([aeed8d7](https://github.com/nihgwu/react-runner/commit/aeed8d78a0126c6af889cec7d57ef5ceed3572ff))
+* add scope.import ([#85](https://github.com/nihgwu/react-runner/issues/85)) ([aef571d](https://github.com/nihgwu/react-runner/commit/aef571db71415f916d6a524dfd41435a68d9be5f))
+* export compile ([6318c9b](https://github.com/nihgwu/react-runner/commit/6318c9b1d1e3f2c085b1275f9507587dde6f9e15))
+* return error string directly ([#4](https://github.com/nihgwu/react-runner/issues/4)) ([0583132](https://github.com/nihgwu/react-runner/commit/0583132fa90fb0006d71937071cfbe135677b0d1))
+* support custom jsxPragma via scope ([#64](https://github.com/nihgwu/react-runner/issues/64)) ([cf98e42](https://github.com/nihgwu/react-runner/commit/cf98e42baa9a745b3ec4bc074661ba36dbf2bbcf))
+* support imports ([#61](https://github.com/nihgwu/react-runner/issues/61)) ([09efc65](https://github.com/nihgwu/react-runner/commit/09efc654f68d4fa127062cc21fdd32e12623dc2b))
+
+
+
+
+
 ## [1.0.5](https://github.com/nihgwu/react-runner/compare/react-runner@1.0.4...react-runner@1.0.5) (2024-06-05)
 
 
