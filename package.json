@@ -1,4 +1,5 @@
 {
+  "name": "react-runner",
   "private": true,
   "workspaces": [
     "packages/*"
