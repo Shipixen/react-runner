@@ -3,6 +3,35 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.2.0 (2025-02-18)
+
+
+### Bug Fixes
+
+* Default condition should be last one ([#173](https://github.com/nihgwu/react-runner/issues/173)) ([2878890](https://github.com/nihgwu/react-runner/commit/287889039b547adb86dd48f885f959f6911c1352))
+* fix cache and remove deprecated props ([#50](https://github.com/nihgwu/react-runner/issues/50)) ([9bc3e5e](https://github.com/nihgwu/react-runner/commit/9bc3e5ef58199bfdbb054d2f10b083a3fde74921))
+* padding not works for CodeBlock ([0b2eee9](https://github.com/nihgwu/react-runner/commit/0b2eee969eb9295001f30d8061ff73f2d89fc513))
+* remove default font family for CodeEditor ([6cc446b](https://github.com/nihgwu/react-runner/commit/6cc446b91c2f98eb9e5cd087d9a2c6312560c84c))
+* types export ([#172](https://github.com/nihgwu/react-runner/issues/172)) ([0dc0181](https://github.com/nihgwu/react-runner/commit/0dc0181e0584ec98c968664800144056f545c08a))
+
+
+### Features
+
+* add CodeBlock ([19a180d](https://github.com/nihgwu/react-runner/commit/19a180db43209b6d0fd49253fc1e004aadfea0c8))
+* add createRequire and remove imports ([#65](https://github.com/nihgwu/react-runner/issues/65)) ([de96dac](https://github.com/nihgwu/react-runner/commit/de96dac64fa78d443e1ef668c68c3f2b9ee78a6b))
+* add noWrapper to CodeBlock ([77c0d66](https://github.com/nihgwu/react-runner/commit/77c0d669f72b4aa3231df5ec4be8b3e68c1c76af))
+* add scope.import ([#85](https://github.com/nihgwu/react-runner/issues/85)) ([aef571d](https://github.com/nihgwu/react-runner/commit/aef571db71415f916d6a524dfd41435a68d9be5f))
+* add sourceCode prop to CodeEditor ([d440f92](https://github.com/nihgwu/react-runner/commit/d440f92a2712d8f8d54b0ff52086eabc4ba7308f))
+* added `disableCache` and deprecated code ([#49](https://github.com/nihgwu/react-runner/issues/49)) ([3f79b10](https://github.com/nihgwu/react-runner/commit/3f79b103964f916022c8e339d6555b8f6d557f2f))
+* new default theme from reactjs.org ([620c33f](https://github.com/nihgwu/react-runner/commit/620c33f1eebcdb0e727aa7e8f864f656f8b92c73))
+* react-runner-codemirror ([#81](https://github.com/nihgwu/react-runner/issues/81)) ([bbfa9f7](https://github.com/nihgwu/react-runner/commit/bbfa9f740472a58547ede428516e79bb3590bf90))
+* return error string directly ([#4](https://github.com/nihgwu/react-runner/issues/4)) ([0583132](https://github.com/nihgwu/react-runner/commit/0583132fa90fb0006d71937071cfbe135677b0d1))
+* support imports ([#61](https://github.com/nihgwu/react-runner/issues/61)) ([09efc65](https://github.com/nihgwu/react-runner/commit/09efc654f68d4fa127062cc21fdd32e12623dc2b))
+
+
+
+
+
 # 1.1.0 (2025-02-18)
 
 
