@@ -1,5 +1,5 @@
 {
-  "name": "react-live-runner",
+  "name": "@shipixen/react-live-runner",
   "version": "1.0.7",
   "description": "Run your React code on the go",
   "homepage": "https://react-runner.vercel.app",

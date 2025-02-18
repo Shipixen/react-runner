@@ -1,5 +1,5 @@
 {
-  "name": "react-runner",
+  "name": "@shipixen/react-runner",
   "version": "1.0.5",
   "description": "Run your React code on the go",
   "homepage": "https://react-runner.vercel.app",
@@ -43,8 +43,8 @@
     "sucrase": "^3.21.0"
   },
   "peerDependencies": {
-    "react": "^16.0.0 || ^17 || ^18",
-    "react-dom": "^16.0.0 || ^17 || ^18"
+    "react": ">16.0.0",
+    "react-dom": ">16.0.0"
   },
   "browserslist": [
     "Chrome > 61",

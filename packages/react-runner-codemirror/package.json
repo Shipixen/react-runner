@@ -1,5 +1,5 @@
 {
-  "name": "react-runner-codemirror",
+  "name": "@shipixen/react-runner-codemirror",
   "version": "0.3.4",
   "description": "CodeMirror6 for react code editing",
   "homepage": "https://react-runner.vercel.app",
